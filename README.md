@@ -32,7 +32,11 @@ The analysis is divided into 6 systematic Jupyter Notebooks:
 Here is the Volcano plot showing the significantly Up-regulated and Down-regulated genes after Ethambutol treatment:
 ![Volcano Plot](results/count_matrix/volcano_plot.png) 
 
-### 2. GSEA Enrichment Plots
+### 2. Hierarchical Clustering Heatmap
+This heatmap displays the expression profiles of the top differentially expressed genes across all replicates, showing a clear distinction between Treated and Untreated samples:
+![Heatmap](results/count_matrix/heatmap.png)
+
+### 3. GSEA Enrichment Plots
 **Down-regulated Pathway: Oxidative Phosphorylation**
 ![GSEA Down](results/enrichment/gsea_down_plot.png)
 

@@ -39,10 +39,3 @@ Here is the Volcano plot showing the significantly Up-regulated and Down-regulat
 **Up-regulated Pathway: Arginine Biosynthesis**
 ![GSEA Up](results/enrichment/gsea_up_plot.png)
 
-## 🚀 How to Run
-Clone the repository and set up the conda environment:
-```bash
-git clone [https://github.com/refmyoussef-source/Mycobacterium_tuberculosis_RNA-Seq.git](https://github.com/refmyoussef-source/Mycobacterium_tuberculosis_RNA-Seq.git)
-cd Mycobacterium_tuberculosis_RNA-Seq
-conda env create -f environment.yml # (If exported)
-conda activate transcriptomics_env
